@@ -13,7 +13,7 @@ console.log(name)
 
 const number = 19;
 const text = "Hello World!";
-const bool = true;
+const bool = true; 
 
 console.log(number, text, bool); 
 
